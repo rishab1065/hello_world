@@ -1,4 +1,4 @@
-class program
+class program implements ActionListener
 {
  public static void main(String args[])
  {
