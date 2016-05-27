@@ -1,7 +1,11 @@
-class program implements Runnable
+class Program
 {
- public static void main(String args[])
- {
-	system.out.println("hello world");
- }
+  public static void display()
+  {
+    System.out.println("Hello World!!!"); 
+  }
+  public static void main(String args[])
+  {
+    display();
+  } 
 }
